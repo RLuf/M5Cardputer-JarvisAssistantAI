@@ -42,18 +42,15 @@ An application that uses M5Cardputer to interact with the Gemini API for generat
 
 
 ## Create .bin 
-https://www.reddit.com/r/CardPuter/comments/1aoka55/finally_i_manage_to_compile_m5nemo_from_source/
+soon
 
-
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
+**@ArLufti@** [GitHub](https://github.com/rluf)
 
-- **@vanshksingh**: [GitHub](https://github.com/vanshksingh)
+
+Creditos to original project creator - **@vanshksingh**: [GitHub](https://github.com/vanshksingh)
